@@ -18,7 +18,8 @@ class FileWriter
             WriteFileInfo(test2.GetFiles(), sw);
         }
 
-            var fileInfo1 = new FileInfo(@"D:\VS Projects\SkillFac\Module 8\Files\Program.cs");
+        var fileInfo1 = new FileInfo(@"D:\VS Projects\SkillFac\Module 8\Files\Program.cs");
+
         using (StreamWriter sw = fileInfo1.AppendText())
         {
             sw.WriteLine("//Последний запуск " + DateTime.Now);
