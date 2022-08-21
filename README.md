@@ -4,4 +4,4 @@
 
 Задание 2 - метод DirSize.  
 Задание 3 - метод MeasureAndClean.  
-Задание 4 - файл FinalTask.
+Задание 4 - файл FinalTask (проект Files).
